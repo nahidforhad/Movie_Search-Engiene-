@@ -3,6 +3,7 @@ With the growing availability of movies and streaming platforms, viewers are oft
 overwhelmed by choices. Recommender systems help address this problem by suggesting 
 movies that match user preferences. This project introduces a content-based movie 
 recommender system that suggests similar movies based on user selection.
+</br>
 Objectives
  Develop a sophisticated web-based movie recommendation system that enhances user 
 experience.
@@ -12,6 +13,7 @@ and relevant movie suggestions.
 appealing movie posters, enriching visual engagement.
  Design a clean, intuitive, and fully responsive user interface that ensures smooth 
 navigation across all devices.
+</br>
 Tools & Technologies
   Python: The primary programming language powering the entire system with its 
 versatility and robust libraries.
